@@ -1,0 +1,4 @@
+#Thu Jun 18 17:51:40 WAT 2020
+base.0=C\:\\Users\\fokunlola\\.vscode\\repo\\piggyvest_roi_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
